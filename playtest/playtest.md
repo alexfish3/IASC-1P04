@@ -3,3 +3,5 @@
 
 ## Play the game 
 Play the game prototype [here](../prototype/TheInsidersPrototype)
+
+## Complete the playtest survey
