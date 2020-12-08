@@ -9,7 +9,3 @@ Playtest my game [here](playtest/playtest)
 ## Prototype
 
 Play the prototype [here](prototype/TheInsidersPrototype)
-
-## Game
-
-Play the prototype [here](Index)
