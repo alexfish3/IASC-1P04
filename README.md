@@ -4,7 +4,7 @@ Welcome to the website for my twine game, created for the course IASC 1P04 at Br
 
 ## Play Now
 
-Playtest my final game [here](final_build/The_Insiders)
+Playtest The Insiders [here](final_build/The_Insiders)
 
 ## Prototype
 
